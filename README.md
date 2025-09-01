@@ -86,6 +86,7 @@ Employees in Life Sciences & Medical fields show high turnover. Introduce skill-
 Attrition is highest among 26–35 years (prime career stage). Provide flexible working models and wellness programs.
 
 📂 Repository Structure
+
 HR-Analytics-Dashboard/
 │
 ├── 📁 data/             
@@ -94,7 +95,7 @@ HR-Analytics-Dashboard/
 │   └── hr_dashboard.png
 │
 ├── README.md               
-                
+             
 🖥️**Live Dashboard**
 
 [Link](https://app.powerbi.com/view?r=eyJrIjoiZjRiNmY1NmYtYTFhOS00NGI0LTkyYmQtZTdjNDQ4ZDhmM2YwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)

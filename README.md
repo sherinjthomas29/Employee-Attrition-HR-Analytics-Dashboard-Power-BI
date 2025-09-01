@@ -83,18 +83,7 @@ Employees in Life Sciences & Medical fields show high turnover. Introduce skill-
 
 • Work-Life Balance for Age Groups
 
-Attrition is highest among 26–35 years (prime career stage). Provide flexible working models and wellness programs.
-
-📂 Repository Structure
-
-HR-Analytics-Dashboard/
-│
-├── 📁 data/             
-├── 📁 pbix/          
-├── 📁 images/            
-│   └── hr_dashboard.png
-│
-├── README.md               
+Attrition is highest among 26–35 years (prime career stage). Provide flexible working models and wellness programs.           
              
 🖥️**Live Dashboard**
 

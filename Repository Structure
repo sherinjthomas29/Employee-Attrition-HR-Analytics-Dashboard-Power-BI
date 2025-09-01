@@ -1,0 +1,10 @@
+📂 Repository Structure
+
+HR-Analytics-Dashboard/
+│
+├── 📁 data/             
+├── 📁 pbix/          
+├── 📁 images/            
+│   └── hr_dashboard.png
+│
+├── README.md    
